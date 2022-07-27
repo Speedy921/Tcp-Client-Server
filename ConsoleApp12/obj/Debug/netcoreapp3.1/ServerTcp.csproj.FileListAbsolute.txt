@@ -1,0 +1,14 @@
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ServerTcp.exe
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ServerTcp.deps.json
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ServerTcp.runtimeconfig.json
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ServerTcp.runtimeconfig.dev.json
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ServerTcp.dll
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\netcoreapp3.1\ServerTcp.pdb
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ServerTcp.csproj.AssemblyReference.cache
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ServerTcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ServerTcp.AssemblyInfoInputs.cache
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ServerTcp.AssemblyInfo.cs
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ServerTcp.csproj.CoreCompileInputs.cache
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ServerTcp.dll
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ServerTcp.pdb
+C:\Users\newyo\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\netcoreapp3.1\ServerTcp.genruntimeconfig.cache
